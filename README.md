@@ -1,0 +1,4 @@
+goson
+=====
+
+Go-flavoured json
